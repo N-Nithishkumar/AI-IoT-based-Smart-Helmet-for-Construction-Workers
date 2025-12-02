@@ -143,43 +143,4 @@ Expanding the machine learning model for advanced accident prediction and adapti
 
 With further optimization, this smart helmet system can become a cost-effective and scalable solution for industrial safety worldwide.
 
-VII. REFERENCES
-
-1.V Jayasree, M Nivetha Kumari
-IOT based smart helmet for construction workers
-2020 7th International Conference on Smart Structures and Systems (ICSSS), 1-5, 2020
-
-2.Sayan Tapadar; Shinjini Ray; ,Accident and alcohol detection in bluetooth enabled smart helmets for motorbikes ,2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC)
-
-3.Gurpreet Singh Chhabra; Monika Verma; Smart Helmet using IoT for Alcohol Detection and Location Detection System 2022 4th International Conference on Inventive Research in Computing Applications (ICIRCA)
-
-4.The Impact of Wearable Devices on the Construction Safety of Building Workers: A Systematic Review
-by Haiyan Chen 
-
-5.Smart Safety Helmets with Integrated Vision Systems for Industrial Infrastructure Inspection: A Comprehensive Review of VSLAM-Enabled Technologies
-by Emmanuel A. Merchán-Cruz 1,*ORCID,Samuel Moveh 
-
-6.r.Deepali S. Jadhav1
-, Dr. Kaushalya Thopate2,IoT Based Smart Helmet for Coal Mining and Safety Monitoring System
-
-7.Beauty L. Komane; Topide E. Mathonsi ,A Review of Wireless Sensor Networks: Early Accident Detection Models for South African Mine Industries , Published in: 2019 Open Innovations (OI)
-
-8.Ahmet Yurtcu , Wearable Technologies and Internet of Things for Real-Time Hazard Monitoring in Occupational Health and Safety: A Systematic Content Analysis ,	September 29, 2025 ,Year 2025 Volume: 1 Issue: 2
-
-9.Jochen Teizer, Proximity hazard indicator for workers-on-foot near miss interactions with construction equipment and geo-referenced hazard areas
-
-10.Soungho Chae,Application of RFID technology to prevention of collision accident with heavy equipment
-
-11.Riad Kanan,An IoT-based autonomous system for workers' safety in construction sites with real-time alarming, monitoring, and positioning strategies
-
-12.P Koteswara Rao,P Tarun Sai,Design And Implementation Of Smart Helmet Using IoT
-
-13.Mir Sajjad Hussain Talpur1
-, Amjad Chohan1,SMART HELMET FOR COAL MINES SAFETY
-MONITORING WITH MOBILE APP
-
-14.ter Lee1 Author Orcid Image ;  Heepyung Kim1 Author Orcid Image ;  M Sami Zitouni2 ,Trends in Smart Helmets With Multimodal Sensing for Health and Safety: Scoping Review ,Published on 15.Nov.2022 in Vol 10, No 11 (2022): November
-
-15.Investigating the Barriers to Applying the Internet-of-Things-Based Technologies to Construction Site Safety Management
-by Sanaz Tabatabaee 
 
