@@ -141,6 +141,6 @@ Implementing voice communication between helmets.
 
 Expanding the machine learning model for advanced accident prediction and adaptive alerts.
 
-With further optimization, this smart helmet system can become a cost-effective and scalable solution for industrial safety worldwide.
+With further optimization, this smart helmet system can become a cost-effective and scalable solution for industrial safety worldwide...
 
 
