@@ -85,7 +85,7 @@ The **AI–IoT Based Smart Helmet** is an intelligent safety solution designed t
 ---
 
 ## 👨‍💻 Author
-**Nithish**
+**Nithish Kumar N**
 
 ---
 
